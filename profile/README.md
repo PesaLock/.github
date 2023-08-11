@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**Here are some ideas to get you started:**
+**A little bit about us:**
 
 - 🙋‍♀️ Is a group of young business analysts and software engineers, solving the Tanzanian market problems that have been excluding most Africans from economic activities. We are creating inclusive solutions that enable all to gain financial benefits that will allow them to run their lives and improve their lives.
 
