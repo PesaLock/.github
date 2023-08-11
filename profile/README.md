@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 
 **Here are some ideas to get you started:**
 
@@ -8,4 +7,4 @@
 ⚙️  Use discussions to communicate how we can improve our products once they are rolled out to the public, we will appreciate that.
 👩‍💻 Use FAQ and API documentation on our upcoming website for docs and resources
 🍿 Fun fact is we have non of the above but we will build them one by one
--->
+
